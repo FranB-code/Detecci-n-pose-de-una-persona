@@ -8,4 +8,4 @@ En este repositorio se encontrará el código y los pasos para realizar la estim
 
   -Arquitectura: https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/models/pose/mpi/pose_deploy_linevec_faster_4_stages.prototxt
 
-  -Los pesos del modelo se encuentran en este repositorio bajo el nombre de archivo: *pose_iter_160000.caffemodel*
+  -Los pesos del modelo se encuentran en este repositorio bajo el nombre de archivo: https://huggingface.co/camenduru/openpose/resolve/f4a22b0e6fa2a4a2b1e2d50bd589e8bb11ebea7c/pose_iter_160000.caffemodel
